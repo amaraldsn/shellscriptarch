@@ -1,0 +1,38 @@
+#connect wireless
+
+iwctl
+device list
+station <rede> get-networks
+station <rede> connect <nome do wifi>
+<senha do wifi>
+
+installation minimal: nano vim git unzip less wget curl neofetch htop
+
+sudo nmcli dev wifi connect <nome do wifi> password "<senha>"
+
+---------------------------------
+#DOTFILE HYPRLAND 1
+
+git clone https://github.com/prasanthrangan/hyprdots
+
+ou
+
+git clone https://github.com/amaraldzn/hyprdots
+
+cd hyprdots/Scripts
+
+chmod +x ./install.sh
+
+./install.sh
+---------------------------------
+#DOTFILE BSPWM 1
+
+curl https://raw.githubusercontent.com/gh0stzk/dotfiles/master/RiceInstaller -o $HOME/RiceInstaller
+
+ou
+
+curl https://raw.githubusercontent.com/amaraldzn/dotfiles/master/RiceInstaller -o $HOME/RiceInstaller
+
+chmod +x ./RiceInstaller
+
+./RiceInstaller
