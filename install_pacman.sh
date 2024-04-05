@@ -18,7 +18,8 @@ pacotes=(
   inkscape
 
   #flatpak
-  obs.flatpak
+  com.obsproject.Studio
+  com.spotify.Client
 )
 
 # Função para instalar um pacote
