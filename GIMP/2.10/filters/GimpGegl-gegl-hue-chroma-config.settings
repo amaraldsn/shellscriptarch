@@ -1,0 +1,54 @@
+# settings
+
+(GimpGegl-gegl-hue-chroma-config "2024-04-06 22:08:16"
+    (time 1712452096)
+    (hue 0.5)
+    (chroma 3.4900000000000002)
+    (lightness 6.9299999999999997))
+(GimpGegl-gegl-hue-chroma-config "2024-04-01 12:42:33"
+    (time 1711986153)
+    (hue 36.399999999999999)
+    (chroma 0.28000000000000003)
+    (lightness 0.28000000000000003))
+(GimpGegl-gegl-hue-chroma-config "2024-04-01 12:34:54"
+    (time 1711985694)
+    (hue -71.299999999999997)
+    (chroma -0.82999999999999996)
+    (lightness 9.6999999999999993))
+(GimpGegl-gegl-hue-chroma-config "2024-04-01 12:31:52"
+    (time 1711985512)
+    (hue -83.269999999999996)
+    (chroma 1.9399999999999999)
+    (lightness 1.9399999999999999))
+(GimpGegl-gegl-hue-chroma-config "2024-03-28 16:28:50"
+    (time 1711654130)
+    (hue 82.269999999999996)
+    (chroma 17.449999999999999)
+    (lightness -16.34))
+(GimpGegl-gegl-hue-chroma-config "2024-03-28 14:22:02"
+    (time 1711646522)
+    (hue -91.25)
+    (chroma -14.68)
+    (lightness -37.399999999999999))
+(GimpGegl-gegl-hue-chroma-config "2024-03-27 22:14:21"
+    (time 1711588461)
+    (hue -180)
+    (chroma -100)
+    (lightness -9.6999999999999993))
+(GimpGegl-gegl-hue-chroma-config "2024-03-11 23:23:45"
+    (time 1710210225)
+    (hue 27.420000000000002)
+    (chroma 12.470000000000001)
+    (lightness -20.219999999999999))
+(GimpGegl-gegl-hue-chroma-config "2024-03-11 20:59:40"
+    (time 1710201580)
+    (hue -77.290000000000006)
+    (chroma 33.520000000000003)
+    (lightness 1.3899999999999999))
+(GimpGegl-gegl-hue-chroma-config "2020-06-16 14:24:39"
+    (time 1592328279)
+    (hue 0)
+    (chroma 20)
+    (lightness 0))
+
+# end of settings

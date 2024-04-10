@@ -1,0 +1,16 @@
+# GIMP user context
+
+(tool "gimp-move-tool")
+(paint-info "gimp-paintbrush")
+(foreground (color-rgb 0.24081694863587866 0.57499326286647956 0.97530864197530864))
+(background (color-rgb 0.22352941334247589 0.45882353186607361 0.14901961386203766))
+(brush "2. Hardness 075")
+(dynamics "Basic Dynamics")
+(mybrush "100% Opaque")
+(pattern "Pine")
+(gradient "Personalizado")
+(palette "paletaamaraldsn.gpl")
+(font "Neulis Heavy")
+(tool-preset "Core Pointer")
+
+# end of user context

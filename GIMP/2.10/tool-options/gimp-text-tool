@@ -1,0 +1,10 @@
+# GIMP gimp-text-tool options
+
+(foreground (color-rgb 0.24081694863587866 0.57499326286647956 0.97530864197530864))
+(palette "paletaamaraldsn.gpl")
+(font "Neulis Heavy")
+(font-size 24)
+(justify center)
+(letter-spacing 8)
+
+# end of gimp-text-tool options
