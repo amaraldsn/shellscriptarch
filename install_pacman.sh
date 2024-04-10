@@ -35,6 +35,7 @@ pacotes_repo=(
 # Lista de pacotes AUR
 pacotes_aur=(
  #FERRAMENTAS
+ "brave-bin"
  "kdeconnect"
  #VIRTUALIZAÇÃO
  "virt-manager"
